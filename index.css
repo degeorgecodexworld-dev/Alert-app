@@ -44,7 +44,7 @@ body {
 }
 
 .headline {
-  font-size: 3rem;
+  font-size: 1.5rem;
   margin-top: 10% ;
   font-weight: bolder;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -404,3 +404,4 @@ body {
      outline: none;
      cursor: pointer;
   }
+
