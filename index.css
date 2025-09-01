@@ -44,7 +44,7 @@ body {
 }
 
 .headline {
-  font-size: 3rem;
+  font-size: 2rem;
   margin-top: 10% ;
   font-weight: bolder;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -195,7 +195,7 @@ body {
     align-self: center;
     margin: 20px;
     color: rgb(14, 3, 3);
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bolder;
     text-shadow: 0 0 5px #a50721;
   }
@@ -210,7 +210,7 @@ body {
   }
 
   .headline {
-    font-size:20px;
+    font-size:15px;
     padding: 10px;
     text-transform: uppercase;
     text-align: center;
@@ -404,5 +404,6 @@ body {
      outline: none;
      cursor: pointer;
   }
+
 
 
